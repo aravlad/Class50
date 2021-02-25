@@ -1,0 +1,6 @@
+h1{color:brown}
+.header{background-color:#ff8277;display:flex;justify-content: space-between;}
+.grid{display:flex;justify-content: space-between;}
+.footer{display:flex;justify-content: flex-end;}
+.menu{display:flex; justify-content: flex-start;}
+.grid{border:solid; border-width: 10px;}
